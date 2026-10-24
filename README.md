@@ -10,3 +10,4 @@ Place the supplied MP4 files in `videos/` using these names:
 - `Video-17566.mp4`
 
 Then open `index.html` in a browser or serve this folder with any static server.
+https://adu773.github.io/Media-Portfolio/
